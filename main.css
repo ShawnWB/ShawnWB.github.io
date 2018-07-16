@@ -2177,7 +2177,7 @@ input, select, textarea {
 	}
 
 	#banner {
-		background:  url("../../images/c01.jpg");
+		background:  url("c01.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2269,7 +2269,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #f7f7f7 url("bg02.png");
 		padding: 4em 0 4em 0;
 	}
 
@@ -2279,14 +2279,14 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
+			background: url("bg01.png");
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.1;
 		}
 
 		#main .major h2 {
-			background: #f7f7f7 url("images/bg02.png");
+			background: #f7f7f7 url("bg02.png");
 		}
 
 /* Footer */
@@ -2303,7 +2303,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			background: url("images/bg01.png");
+			background: url("bg01.png");
 			background-size: 100% 100%;
 			z-index: 0;
 			opacity: 0.5;
